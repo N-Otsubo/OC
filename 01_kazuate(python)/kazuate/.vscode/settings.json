@@ -1,5 +1,6 @@
 {
-    "python.pythonPath": "C:\\install\\anaconda3\\python.exe",
-    "python.terminal.activateEnvironment": false
+    "python.terminal.activateEnvironment": false,
+    "editor.fontSize": 32,
+    "debug.console.fontSize": 32,
+    "workbench.colorTheme": "Default Light+"
 }
-    

@@ -7,11 +7,11 @@ print("1から50までの数字を入力して、隠された数字を当てて�
 
 
 def guess_num(num):
-    tries = 0 # 予想回数
+    tries = 0  # 予想回数
+
     while True:
         guess = int(input("予想 : "))
         tries += 1
-
         if guess > num:
             print("もっと小さい")
         elif guess < num:
