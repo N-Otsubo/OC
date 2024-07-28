@@ -3,8 +3,7 @@
 import random
 
 # ランダムな値の作成
-rand = random.random()
-print(rand)
+
 
 # 決められた範囲でランダムな値を作成
 # 今回は1～99の範囲で作成
