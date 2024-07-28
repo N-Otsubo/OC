@@ -1,6 +1,6 @@
 {
     "python.terminal.activateEnvironment": false,
-    "editor.fontSize": 32,
-    "debug.console.fontSize": 32,
+    "editor.fontSize": 20,
+    "debug.console.fontSize": 20,
     "workbench.colorTheme": "Default Light+"
 }
