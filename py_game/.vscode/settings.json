@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "blit",
+    "centerx",
+    "constans",
+    "pygame",
+    "topleft"
+  ],
+  "cSpell.ignoreWords": [
+    "KEYDOWN",
+    "spritecollide"
+  ]
+}
